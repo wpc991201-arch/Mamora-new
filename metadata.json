@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: 單字卡",
+  "description": "極簡美學的單字卡學習與複習軟體。支援自己手動輸入或由 AI 解析文章、檔案、照片、網址自動彙整單字組，還能分析文章的文法以及考點，並採用極富實感的「一疊單字卡」左右滑動分類機制，結合遺忘曲線與 AI 深度解說學英語！加入AI生成測驗功能，隨時驗收學習成果",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
